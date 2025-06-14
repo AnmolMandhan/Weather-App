@@ -47,6 +47,9 @@ A  interactive weather application built using **HTML**, **CSS**, and **JavaScri
 ## 3. Open in Browser
 👨‍💻 Author
 Developed with ❤️ by Anmol Mandhan
+📎 LinkedIn Profile | www.linkedin.com/in/anmol-mandhan-6a80362a8
+🌟 Give a Star!
+If you like this project, don’t forget to ⭐ star it on GitHub!
 
 
 
