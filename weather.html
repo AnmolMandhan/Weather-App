@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🌦 Weather App</title>
+  <link rel="stylesheet" href="weather.css" />
+</head>
+<body>
+  <div class="toggle-theme">
+    <button id="themeToggle">🌓 Toggle Theme</button>
+  </div>
+
+  <div class="container">
+     <h1 class="title">🌈 Weather Wizard</h1>
+
+
+    <label for="country"> 🌍Select Country:</label>
+    <select id="country">
+      <option value=""> 🌍Choose Country--</option>
+    </select>
+
+    <label for="city"> 🏙 Select City:</label>
+    <select id="city" disabled>
+      <option value=""> 🏙 Choose City--</option>
+    </select>
+
+    <button id="getWeather" disabled> 🔍Get Weather</button>
+
+    <div id="output"></div>
+  </div>
+
+  <script src="weather.js"></script>
+</body>
+</html>
